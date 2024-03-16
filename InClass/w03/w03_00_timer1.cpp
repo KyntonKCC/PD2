@@ -9,7 +9,7 @@ class Timer{
 };
 
 int main(){
-    Timer tmr;
-    tmr.hello();
+    Timer tmr;      // create object tmr
+    tmr.hello();    // call member function hello()
     return 0;
 }

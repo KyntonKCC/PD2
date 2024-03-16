@@ -2,6 +2,7 @@
 #include <ctime>
 #include <unistd.h>
 using namespace std;
+
 class Timer{
     private:
         time_t start_ts;
